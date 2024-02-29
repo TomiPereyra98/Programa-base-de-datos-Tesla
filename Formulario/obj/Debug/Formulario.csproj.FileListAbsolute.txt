@@ -1,0 +1,55 @@
+C:\Users\tomy_\Downloads\Proyecto temporal\Formulario\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\tomy_\Downloads\Proyecto temporal\Formulario\Formulario\bin\Debug\Formulario.exe
+C:\Users\tomy_\Downloads\Proyecto temporal\Formulario\Formulario\bin\Debug\Formulario.pdb
+C:\Users\tomy_\Downloads\Proyecto temporal\Formulario\Formulario\obj\Debug\Formulario.csproj.AssemblyReference.cache
+C:\Users\tomy_\Downloads\Proyecto temporal\Formulario\Formulario\obj\Debug\Formulario.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomy_\Downloads\Proyecto temporal\Formulario\Formulario\obj\Debug\Formulario.Tesla.resources
+C:\Users\tomy_\Downloads\Proyecto temporal\Formulario\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\tomy_\Downloads\Proyecto temporal\Formulario\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\tomy_\Downloads\Proyecto temporal\Formulario\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\tomy_\Downloads\Proyecto temporal\Formulario\Formulario\obj\Debug\Formulario.exe
+C:\Users\tomy_\Downloads\Proyecto temporal\Formulario\Formulario\obj\Debug\Formulario.pdb
+C:\Users\tomy_\Downloads\Proyecto temporal\FormularioMitad\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\tomy_\Downloads\Proyecto temporal\FormularioMitad\Formulario\bin\Debug\Formulario.exe
+C:\Users\tomy_\Downloads\Proyecto temporal\FormularioMitad\Formulario\bin\Debug\Formulario.pdb
+C:\Users\tomy_\Downloads\Proyecto temporal\FormularioMitad\Formulario\obj\Debug\Formulario.csproj.AssemblyReference.cache
+C:\Users\tomy_\Downloads\Proyecto temporal\FormularioMitad\Formulario\obj\Debug\Formulario.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomy_\Downloads\Proyecto temporal\FormularioMitad\Formulario\obj\Debug\Formulario.Tesla.resources
+C:\Users\tomy_\Downloads\Proyecto temporal\FormularioMitad\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\tomy_\Downloads\Proyecto temporal\FormularioMitad\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\tomy_\Downloads\Proyecto temporal\FormularioMitad\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\tomy_\Downloads\Proyecto temporal\FormularioMitad\Formulario\obj\Debug\Formulario.exe
+C:\Users\tomy_\Downloads\Proyecto temporal\FormularioMitad\Formulario\obj\Debug\Formulario.pdb
+C:\Users\Rick\Desktop\Mi C#\ProyectoTesla\Tom FormularioCasi\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\Rick\Desktop\Mi C#\ProyectoTesla\Tom FormularioCasi\Formulario\bin\Debug\Formulario.exe
+C:\Users\Rick\Desktop\Mi C#\ProyectoTesla\Tom FormularioCasi\Formulario\bin\Debug\Formulario.pdb
+C:\Users\Rick\Desktop\Mi C#\ProyectoTesla\Tom FormularioCasi\Formulario\obj\Debug\Formulario.csproj.AssemblyReference.cache
+C:\Users\Rick\Desktop\Mi C#\ProyectoTesla\Tom FormularioCasi\Formulario\obj\Debug\Formulario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rick\Desktop\Mi C#\ProyectoTesla\Tom FormularioCasi\Formulario\obj\Debug\Formulario.Tesla.resources
+C:\Users\Rick\Desktop\Mi C#\ProyectoTesla\Tom FormularioCasi\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\Rick\Desktop\Mi C#\ProyectoTesla\Tom FormularioCasi\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\Rick\Desktop\Mi C#\ProyectoTesla\Tom FormularioCasi\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Rick\Desktop\Mi C#\ProyectoTesla\Tom FormularioCasi\Formulario\obj\Debug\Formulario.exe
+C:\Users\Rick\Desktop\Mi C#\ProyectoTesla\Tom FormularioCasi\Formulario\obj\Debug\Formulario.pdb
+C:\Users\tomy_\Videos\Pereyra-Rasmunsen\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\tomy_\Videos\Pereyra-Rasmunsen\Formulario\bin\Debug\Formulario.exe
+C:\Users\tomy_\Videos\Pereyra-Rasmunsen\Formulario\bin\Debug\Formulario.pdb
+C:\Users\tomy_\Videos\Pereyra-Rasmunsen\Formulario\obj\Debug\Formulario.csproj.AssemblyReference.cache
+C:\Users\tomy_\Videos\Pereyra-Rasmunsen\Formulario\obj\Debug\Formulario.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomy_\Videos\Pereyra-Rasmunsen\Formulario\obj\Debug\Formulario.Tesla.resources
+C:\Users\tomy_\Videos\Pereyra-Rasmunsen\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\tomy_\Videos\Pereyra-Rasmunsen\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\tomy_\Videos\Pereyra-Rasmunsen\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\tomy_\Videos\Pereyra-Rasmunsen\Formulario\obj\Debug\Formulario.exe
+C:\Users\tomy_\Videos\Pereyra-Rasmunsen\Formulario\obj\Debug\Formulario.pdb
+C:\Users\tomy_\Downloads\2do Año\PROGRAMACIÓN C#.NET\Pereyra-Rasmunsen\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\tomy_\Downloads\2do Año\PROGRAMACIÓN C#.NET\Pereyra-Rasmunsen\Formulario\bin\Debug\Formulario.exe
+C:\Users\tomy_\Downloads\2do Año\PROGRAMACIÓN C#.NET\Pereyra-Rasmunsen\Formulario\bin\Debug\Formulario.pdb
+C:\Users\tomy_\Downloads\2do Año\PROGRAMACIÓN C#.NET\Pereyra-Rasmunsen\Formulario\obj\Debug\Formulario.csproj.AssemblyReference.cache
+C:\Users\tomy_\Downloads\2do Año\PROGRAMACIÓN C#.NET\Pereyra-Rasmunsen\Formulario\obj\Debug\Formulario.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomy_\Downloads\2do Año\PROGRAMACIÓN C#.NET\Pereyra-Rasmunsen\Formulario\obj\Debug\Formulario.Tesla.resources
+C:\Users\tomy_\Downloads\2do Año\PROGRAMACIÓN C#.NET\Pereyra-Rasmunsen\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\tomy_\Downloads\2do Año\PROGRAMACIÓN C#.NET\Pereyra-Rasmunsen\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\tomy_\Downloads\2do Año\PROGRAMACIÓN C#.NET\Pereyra-Rasmunsen\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\tomy_\Downloads\2do Año\PROGRAMACIÓN C#.NET\Pereyra-Rasmunsen\Formulario\obj\Debug\Formulario.exe
+C:\Users\tomy_\Downloads\2do Año\PROGRAMACIÓN C#.NET\Pereyra-Rasmunsen\Formulario\obj\Debug\Formulario.pdb

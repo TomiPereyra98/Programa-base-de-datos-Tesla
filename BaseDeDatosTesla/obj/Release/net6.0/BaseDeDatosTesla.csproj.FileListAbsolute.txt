@@ -1,0 +1,15 @@
+C:\Users\Rick\source\repos\BaseDeDatosTesla\bin\Release\net6.0\BaseDeDatosTesla.exe
+C:\Users\Rick\source\repos\BaseDeDatosTesla\bin\Release\net6.0\BaseDeDatosTesla.deps.json
+C:\Users\Rick\source\repos\BaseDeDatosTesla\bin\Release\net6.0\BaseDeDatosTesla.runtimeconfig.json
+C:\Users\Rick\source\repos\BaseDeDatosTesla\bin\Release\net6.0\BaseDeDatosTesla.dll
+C:\Users\Rick\source\repos\BaseDeDatosTesla\bin\Release\net6.0\BaseDeDatosTesla.pdb
+C:\Users\Rick\source\repos\BaseDeDatosTesla\obj\Release\net6.0\BaseDeDatosTesla.csproj.AssemblyReference.cache
+C:\Users\Rick\source\repos\BaseDeDatosTesla\obj\Release\net6.0\BaseDeDatosTesla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rick\source\repos\BaseDeDatosTesla\obj\Release\net6.0\BaseDeDatosTesla.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\BaseDeDatosTesla\obj\Release\net6.0\BaseDeDatosTesla.AssemblyInfo.cs
+C:\Users\Rick\source\repos\BaseDeDatosTesla\obj\Release\net6.0\BaseDeDatosTesla.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\BaseDeDatosTesla\obj\Release\net6.0\BaseDeDatosTesla.dll
+C:\Users\Rick\source\repos\BaseDeDatosTesla\obj\Release\net6.0\refint\BaseDeDatosTesla.dll
+C:\Users\Rick\source\repos\BaseDeDatosTesla\obj\Release\net6.0\BaseDeDatosTesla.pdb
+C:\Users\Rick\source\repos\BaseDeDatosTesla\obj\Release\net6.0\BaseDeDatosTesla.genruntimeconfig.cache
+C:\Users\Rick\source\repos\BaseDeDatosTesla\obj\Release\net6.0\ref\BaseDeDatosTesla.dll
